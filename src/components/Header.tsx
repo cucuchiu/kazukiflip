@@ -50,7 +50,7 @@ export function Header() {
         <img width="50px" src={ASSET_LOGO} />
         <div>
           <Title>{gamba.config.name}</Title>
-          <Subtitle>Powered by Gamba</Subtitle>
+          <Subtitle>Powered by <a href="http://discord.gg/hANZGngqEv">Wired Frame</a></Subtitle>
         </div>
       </Link>
     </Wrapper>
